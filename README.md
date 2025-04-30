@@ -34,7 +34,7 @@ This project uses **OpenCV** and **MediaPipe** to detect and count fingers in re
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Armanlaliwala/Real-Time-Finger-Counting-with-OpenCV-and-MediaPipe.git
+git clone https://github.com/RajeevPrajapat/Live_Finger_counting_using_opnecv_mideapipe.git
 cd Real-Time-Finger-Counting-with-OpenCV-and-MediaPipe
 ```
 
