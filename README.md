@@ -3,8 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-green) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0.9%2B-orange)
 
 ## files
-✅ Shows the **total finger count** in first cell, **decation of the finger name , count**  in cell second both in **code.ipynb**
-✅ Shows the **decation of the finger name , count** in **finger_count_code.py**
+- ✅ Shows the **total finger count** in first cell, **decation of the finger name , count**  in cell second both in **code.ipynb**- 
+- ✅ Shows the **decation of the finger name , count** in **finger_count_code.py**
 - TO run the code **python finger_count_code.py** ,In the **Terminal** 
 - To stop press key **q**
 
